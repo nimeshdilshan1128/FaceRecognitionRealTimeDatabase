@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b6dfd8-d423-4cbe-a46a-f6e06d381933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AddDataToDatabase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serviceAccountKey.json" afterDir="false" />
+    <list default="true" id="88b6dfd8-d423-4cbe-a46a-f6e06d381933" name="Changes" comment="Add Firebase integration and student data population&#10;&#10;Integrated Firebase for real-time database and storage support. Added functionality to upload images to Firebase Storage and populate student data into the Realtime Database. Improved image encoding logic and updated display with bounding box visualization in the main script.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EncodeGenarator.py" beforeDir="false" afterPath="$PROJECT_DIR$/EncodeGenarator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddDataToDatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/AddDataToDatabase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,6 +168,15 @@
       <option name="presentableId" value="Default" />
       <updated>1734196391833</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Firebase integration and student data population&#10;&#10;Integrated Firebase for real-time database and storage support. Added functionality to upload images to Firebase Storage and populate student data into the Realtime Database. Improved image encoding logic and updated display with bounding box visualization in the main script.">
+      <option name="closed" value="true" />
+      <created>1738215969254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738215969254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,5 +189,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Firebase integration and student data population&#10;&#10;Integrated Firebase for real-time database and storage support. Added functionality to upload images to Firebase Storage and populate student data into the Realtime Database. Improved image encoding logic and updated display with bounding box visualization in the main script." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Firebase integration and student data population&#10;&#10;Integrated Firebase for real-time database and storage support. Added functionality to upload images to Firebase Storage and populate student data into the Realtime Database. Improved image encoding logic and updated display with bounding box visualization in the main script." />
   </component>
 </project>
